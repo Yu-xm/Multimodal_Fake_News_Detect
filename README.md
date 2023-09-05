@@ -3,6 +3,6 @@
 
 | Dataset                 | Size # of samples       | # of Classes        | Multilingual            |Modality      |   Data Category       |  Source   |
 |-----------------------|--------------| --------------|------------------------------------------------------------------|-------------------------|
-|politifact_multi|198  t:102 f:96 |2|english |image,text|political|political|FakeNewsNet|
-|gossipcop_multi|6805  t:4928 f:1877 |2|english |image,text|political|political|FakeNewsNet|
+|politifact_multi|198  t:102 f:96 |2:true false|english |image,text|political|political|FakeNewsNet|
+|gossipcop_multi|6805  t:4928 f:1877 |2:true false|english |image,text|political|political|FakeNewsNet|
 
